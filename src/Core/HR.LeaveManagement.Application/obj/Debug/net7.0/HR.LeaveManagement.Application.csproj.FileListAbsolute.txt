@@ -1,0 +1,6 @@
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.AssemblyInfo.cs
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.sourcelink.json
