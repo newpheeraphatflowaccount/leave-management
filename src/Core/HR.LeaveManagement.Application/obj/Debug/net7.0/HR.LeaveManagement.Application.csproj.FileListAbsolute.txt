@@ -1,0 +1,16 @@
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Application.deps.json
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Application.dll
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Application.pdb
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Domain.dll
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Domain.pdb
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.AssemblyInfo.cs
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.sourcelink.json
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.Leave.CEB84392.Up2Date
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.dll
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/refint/HR.LeaveManagement.Application.dll
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.pdb
+/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/obj/Debug/net7.0/ref/HR.LeaveManagement.Application.dll
