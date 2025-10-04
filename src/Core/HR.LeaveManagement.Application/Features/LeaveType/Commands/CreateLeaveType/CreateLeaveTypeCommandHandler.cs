@@ -24,7 +24,7 @@ public class CreateLeaveTypeCommandHandler : IRequestHandler<CreateLeaveTypeComm
     var validationResult = await validator.ValidateAsync(request);
 
     if (validationResult.Errors.Any())
-      throw new BadRequestException("Invalid Leave Type", validationResult);
+      throw new BadRequestException("CreateLeaveTypeCommand: Invalid Leave Type", validationResult);
 
     // Convert to domain entity object
     var leaveTypeToCreate = _mapper.Map<Domain.LeaveType>(request);
