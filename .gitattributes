@@ -1,2 +1,60 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# Rider and VS Code
+.idea/
+*.sln.iml
+.vscode/
+
+# Generated files
+TestResult*/
+[Bb]enchmarkDotNet.Artifacts/
+GeneratedCode/
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# NuGet and Paket
+*.nuget.props
+*.nuget.targets
+paket-files/
+.paket/
+
+# Azure functions
+bin-release/
+bin-debug/
+obj-release/
+obj-debug/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Coverage reports
+*.coverage
+*.coveragexml
+
+# Others
+*.cache
+*.tmp
+*.bak
+*.orig
