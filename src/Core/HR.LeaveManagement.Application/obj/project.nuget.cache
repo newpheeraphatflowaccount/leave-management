@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hs9rRa9R0IQ=",
+  "dgSpecHash": "2CrvlXxOdNM=",
   "success": false,
   "projectFilePath": "/Users/pheeraphatprisan/Documents/GitHub/leave-management/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
   "expectedPackageFiles": [
     "/Users/pheeraphatprisan/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/pheeraphatprisan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/pheeraphatprisan/.nuget/packages/fluentvalidation/11.4.0/fluentvalidation.11.4.0.nupkg.sha512",
+    "/Users/pheeraphatprisan/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.4.0/fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
     "/Users/pheeraphatprisan/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/Users/pheeraphatprisan/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/pheeraphatprisan/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
